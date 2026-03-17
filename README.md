@@ -12,9 +12,21 @@ Sou desenvolvedora focada em construir interfaces de alta performance que transf
 - **Inteligência Artificial:** Integração de LLMs (OpenAI API) para automação de fluxos de trabalho e produtividade.
 
 ### 🚀 Projetos em Destaque:
-* **ProjectHub:** Sistema de gestão com painéis analíticos utilizando **Recharts** e **PostgreSQL**.
-* **Proposta Flex:** SaaS para gestão comercial com arquitetura **Multi-tenancy** e KPIs dinâmicos.
-* **Upload AI:** Automação de conteúdo via IA utilizando **Node.js** e transcrição inteligente.
+* **Asset Health Monitor:** Dashboard de monitoramento de ativos industriais com telemetria simulada em tempo real.
+Vibração (mm/s), temperatura e RPM de 4 máquinas diferentes, com alertas de status,
+gráficos de série temporal dos últimos 30 dias e indicador de saúde por ativo.
+**Stack:** _React_ · _Vite_ · _Tailwind CSS_ · _Chart.js_
+* **Proposta Flex:** Sistema SaaS para criação e gestão de propostas comerciais voltado a autônomos e
+pequenas empresas. Multi-tenancy, CRUD de clientes e produtos, link público de aprovação
+e integração com WhatsApp. Desenvolvido fora da stack principal para exercitar PHP,
+MySQL e modelagem relacional.
+**Stack:** _PHP_ · _MySQL_ · _JavaScript_ · _CSS_
+* **ProjectHub:** Sistema de gestão de tarefas com painel analítico para acompanhamento de equipes.
+Em desenvolvimento ativo.
+**Stack:** _React_ · _PostgreSQL_ · _Recharts_ · _Edge Functions_
+* **Upload AI:** Aplicação que transcreve vídeos e usa IA para sugerir títulos e descrições.
+Desenvolvido para aprender integração com APIs de linguagem.
+**Stack:** _TypeScript_ · _Node.js_ · _OpenAI API_
 
 ### 📊 Tecnologias e Ferramentas:
 - **Linguagens:** TypeScript, JavaScript (ES6+), Python, PHP, SQL.
