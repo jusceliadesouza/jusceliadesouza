@@ -37,7 +37,7 @@ Desenvolvido para aprender integração com APIs de linguagem.
 
 ### 📫 Vamos nos conectar?
 - **LinkedIn:** [linkedin.com/in/jusceliadesouza](https://linkedin.com/in/jusceliadesouza)
-- **Portfólio:** [jusceliadesouza.com.br](https://www.jusceliadesouza.com.br) - Em atualização ❌
+- **Portfólio:** [jusceliadesouza.com.br](https://www.jusceliadesouza.com.br)
 - **E-mail:** [dev@jusceliadesouza.com.br](mailto:dev@jusceliadesouza.com.br)
 
 *"Software Engineer é quem resolve problemas reais através de tecnologia. Meu foco atual é o impacto no mundo real."*
