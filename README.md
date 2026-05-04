@@ -12,6 +12,8 @@ Sou desenvolvedora focada em construir interfaces de alta performance que transf
 - **Inteligência Artificial:** Integração de LLMs (OpenAI API) para automação de fluxos de trabalho e produtividade.
 
 ### 🚀 Projetos em Destaque:
+* **Fleet Tracker:** ashboard interativo para monitoramento de frotas em tempo real focado em logística e mobilidade urbana. Apresenta telemetria simulada com movimentação dinâmica de ativos no mapa, sistema de busca indexada e "Smart Tracking", que automatiza o rastreio da câmera sobre o motorista selecionado, mas prioriza a intenção do usuário ao detectar interações manuais. 
+**Stack:** _JavaScript (ES6+)_ · _Leaflet.js_ · _SCSS (BEM/Modular)_ · _Vercel_
 * **Asset Health Monitor:** Dashboard de monitoramento de ativos industriais com telemetria simulada em tempo real.
 Vibração (mm/s), temperatura e RPM de 4 máquinas diferentes, com alertas de status,
 gráficos de série temporal dos últimos 30 dias e indicador de saúde por ativo.
@@ -30,12 +32,13 @@ Desenvolvido para aprender integração com APIs de linguagem.
 
 ### 📊 Tecnologias e Ferramentas:
 - **Linguagens:** TypeScript, JavaScript (ES6+), Python, PHP, SQL.
-- **Front-end:** React, Next.js, Tailwind CSS, Figma.
+- **Front-end:** React, Next.js, Tailwind CSS, SCSS, Figma.
 - **Back-end & Cloud:** Node.js, PostgreSQL, Supabase, MySQL.
 
 ---
 
 ### 📫 Vamos nos conectar?
+- **[NOVO] GitHub Profissional:** [[github.com/mydevslab](https://github.com/mydevslab)]
 - **LinkedIn:** [linkedin.com/in/jusceliadesouza](https://linkedin.com/in/jusceliadesouza)
 - **Portfólio:** [jusceliadesouza.com.br](https://www.jusceliadesouza.com.br)
 - **E-mail:** [dev@jusceliadesouza.com.br](mailto:dev@jusceliadesouza.com.br)
